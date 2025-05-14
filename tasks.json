@@ -26,5 +26,706 @@
     "category": "יצירתי",
     "max_cost": 0,
     "location_required": false
+  },
+  {
+    "id": 5,
+    "task_he": "הכן פלייליסט של 5 שירים שלא שמעת מעולם.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 6,
+    "task_he": "למד לומר 'שלום' בחמש שפות חדשות.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 7,
+    "task_he": "בקר בחנות ספרים יד שנייה וחפש מציאה.",
+    "category": "תרבות",
+    "max_cost": 30,
+    "location_required": true
+  },
+  {
+    "id": 8,
+    "task_he": "כתוב שיר קצר (4 שורות) על היום שלך.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 9,
+    "task_he": "נסה מתכון חדש לארוחת ערב.",
+    "category": "אוכל",
+    "max_cost": 70,
+    "location_required": false
+  },
+  {
+    "id": 10,
+    "task_he": "התקשר לסבא/סבתא או קרוב משפחה מבוגר ושאל לשלומו.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 11,
+    "task_he": "צלם 10 תמונות של דברים כחולים בסביבתך.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 12,
+    "task_he": "עשה 10 דקות של מתיחות או יוגה קלה.",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 13,
+    "task_he": "גלה פארק או גינה ציבורית חדשה באזורך.",
+    "category": "הרפתקה",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 14,
+    "task_he": "השאר פתק נחמד לשכן או קולגה.",
+    "category": "חברתי",
+    "max_cost": 5,
+    "location_required": false
+  },
+  {
+    "id": 15,
+    "task_he": "צפה בסרט תיעודי קצר על נושא שמעניין אותך.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 16,
+    "task_he": "ארגן מחדש מגירה או מדף בבית.",
+    "category": "בית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 17,
+    "task_he": "נסה סוג חדש של תה או קפה.",
+    "category": "אוכל",
+    "max_cost": 20,
+    "location_required": false
+  },
+  {
+    "id": 18,
+    "task_he": "שחק משחק קופסה או קלפים עם מישהו.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 19,
+    "task_he": "כתוב שלושה דברים שאתה מודה עליהם היום.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 20,
+    "task_he": "בקר בשוק איכרים או שוק פשפשים.",
+    "category": "תרבות",
+    "max_cost": 50,
+    "location_required": true
+  },
+  {
+    "id": 21,
+    "task_he": "למד לקפל אוריגמי פשוט (למשל, סירה).",
+    "category": "יצירתי",
+    "max_cost": 5,
+    "location_required": false
+  },
+  {
+    "id": 22,
+    "task_he": "האזן לפודקאסט בנושא שלא הכרת.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 23,
+    "task_he": "עשה מעשה טוב קטן ואנונימי.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 24,
+    "task_he": "שתול צמח קטן או זרעים בעציץ.",
+    "category": "בית",
+    "max_cost": 25,
+    "location_required": false
+  },
+  {
+    "id": 25,
+    "task_he": "מצא שביל הליכה קצר בטבע וטייל בו.",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 26,
+    "task_he": "הכן לעצמך שייק פירות מרענן.",
+    "category": "אוכל",
+    "max_cost": 20,
+    "location_required": false
+  },
+  {
+    "id": 27,
+    "task_he": "קרא פרק מספר שלא קשור לעבודה או ללימודים.",
+    "category": "תרבות",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 28,
+    "task_he": "אתגר חבר למשחק אונליין קצר.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 29,
+    "task_he": "נסה תחביב חדש למשך 20 דקות (למשל, סריגה, נגינה בכלי פשוט).",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 30,
+    "task_he": "סע בתחבורה ציבורית במסלול שאינך מכיר.",
+    "category": "הרפתקה",
+    "max_cost": 15,
+    "location_required": true
+  },
+  {
+    "id": 31,
+    "task_he": "הכן כרטיס ברכה בעבודת יד למישהו.",
+    "category": "יצירתי",
+    "max_cost": 10,
+    "location_required": false
+  },
+  {
+    "id": 32,
+    "task_he": "בצע תרגיל נשימות מרגיע למשך 5 דקות.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 33,
+    "task_he": "מצא בית קפה חדש בשכונה ושתה בו משהו.",
+    "category": "אוכל",
+    "max_cost": 25,
+    "location_required": true
+  },
+  {
+    "id": 34,
+    "task_he": "חפש באינטרנט עובדה מעניינת על העיר שלך.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 35,
+    "task_he": "רקוד לשיר האהוב עליך כאילו אף אחד לא רואה.",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 36,
+    "task_he": "התנדב לשעה קלה במקום קרוב (בית תמחוי, עמותת בעלי חיים).",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 37,
+    "task_he": "בנה משהו מלגו או מקוביות בנייה אחרות.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 38,
+    "task_he": "בקר במוזיאון קטן או גלריה מקומית.",
+    "category": "תרבות",
+    "max_cost": 40,
+    "location_required": true
+  },
+  {
+    "id": 39,
+    "task_he": "הכן ארוחת בוקר מושקעת לעצמך או למישהו אחר.",
+    "category": "אוכל",
+    "max_cost": 30,
+    "location_required": false
+  },
+  {
+    "id": 40,
+    "task_he": "שחק 'חפש את המטמון' עם פתקים קטנים בבית.",
+    "category": "משחק",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 41,
+    "task_he": "צלם סרטון קצר ומצחיק בטלפון שלך.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 42,
+    "task_he": "ערוך פיקניק קטן בפארק או אפילו בסלון.",
+    "category": "אוכל",
+    "max_cost": 60,
+    "location_required": true 
+  },
+  {
+    "id": 43,
+    "task_he": "למד קסם קלפים פשוט והדגם אותו למישהו.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 44,
+    "task_he": "כתוב מכתב תודה למישהו שעזר לך לאחרונה.",
+    "category": "חברתי",
+    "max_cost": 5,
+    "location_required": false
+  },
+  {
+    "id": 45,
+    "task_he": "צא לסיבוב אופניים בשכונה.",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 46,
+    "task_he": "הכן רשימה של 10 מקומות בעולם שתרצה לבקר בהם.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 47,
+    "task_he": "נסה להכין קוקטייל (אלכוהולי או לא) חדש.",
+    "category": "אוכל",
+    "max_cost": 40,
+    "location_required": false
+  },
+  {
+    "id": 48,
+    "task_he": "החלף את תמונת הרקע בטלפון או במחשב למשהו מרענן.",
+    "category": "בית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 49,
+    "task_he": "חפש כוכבים או קבוצות כוכבים בשמי הלילה.",
+    "category": "הרפתקה",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 50,
+    "task_he": "תן מחמאה כנה לשלושה אנשים שונים היום.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 51,
+    "task_he": "צור קולאז' מתמונות ישנות או ממגזינים.",
+    "category": "יצירתי",
+    "max_cost": 10,
+    "location_required": false
+  },
+  {
+    "id": 52,
+    "task_he": "בקר בספרייה העירונית והשאל ספר בנושא מפתיע.",
+    "category": "תרבות",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 53,
+    "task_he": "למד בדיחה חדשה וספר אותה למישהו.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 54,
+    "task_he": "הכן עציץ תבלינים קטן מחומרים ממוחזרים.",
+    "category": "בית",
+    "max_cost": 15,
+    "location_required": false
+  }
+[
+  {
+    "id": 55,
+    "task_he": "אפה עוגיות בצורה מצחיקה או לא שגרתית.",
+    "category": "אוכל",
+    "max_cost": 30,
+    "location_required": false
+  },
+  {
+    "id": 56,
+    "task_he": "כתוב מכתב פיזי (לא דיגיטלי) לחבר ותיק ושלח אותו בדואר.",
+    "category": "חברתי",
+    "max_cost": 10,
+    "location_required": false
+  },
+  {
+    "id": 57,
+    "task_he": "בקר בנקודת תצפית בעיר שלך שלא היית בה מעולם.",
+    "category": "הרפתקה",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 58,
+    "task_he": "צייר או רשום קריקטורה של חפץ יומיומי.",
+    "category": "יצירתי",
+    "max_cost": 5,
+    "location_required": false
+  },
+  {
+    "id": 59,
+    "task_he": "נסה סוג אימון גופני חדש מהאינטרנט (למשל, פילאטיס למתחילים).",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 60,
+    "task_he": "למד 5 עובדות מעניינות על בעל חיים שאתה אוהב.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 61,
+    "task_he": "האזן לאלבום מוזיקה שלם מז'אנר שאתה בדרך כלל לא שומע.",
+    "category": "תרבות",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 62,
+    "task_he": "הקדש 15 דקות לכתיבת מחשבות או רגשות ביומן אישי.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 63,
+    "task_he": "סדר מחדש את הספרים על המדף שלך לפי צבע או גודל.",
+    "category": "בית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 64,
+    "task_he": "הכן ארוחה עם מרכיב אחד לפחות שמעולם לא השתמשת בו.",
+    "category": "אוכל",
+    "max_cost": 40,
+    "location_required": false
+  },
+  {
+    "id": 65,
+    "task_he": "הצע עזרה לשכן במטלה קטנה (להשקות עציצים, להוריד זבל).",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 66,
+    "task_he": "צא ל'טיול צילום' בשכונה ותעד פרטים קטנים ומעניינים.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 67,
+    "task_he": "פתור תשבץ הגיון או סודוקו ברמה מאתגרת.",
+    "category": "משחק",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 68,
+    "task_he": "בנה את המבנה הכי גבוה שאתה יכול באמצעות 20 חפצים מהבית.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 69,
+    "task_he": "למד להגיד 'תודה רבה' בשלוש שפות חדשות.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 70,
+    "task_he": "בקר בחנות יד שנייה וחפש פריט לבוש ייחודי.",
+    "category": "תרבות",
+    "max_cost": 50,
+    "location_required": true
+  },
+  {
+    "id": 71,
+    "task_he": "הכן רשימה של 5 דברים שאתה גאה בהם שהשגת לאחרונה.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 72,
+    "task_he": "נסה להכין גלידה ביתית פשוטה (למשל, מבננות קפואות).",
+    "category": "אוכל",
+    "max_cost": 20,
+    "location_required": false
+  },
+  {
+    "id": 73,
+    "task_he": "שתף זיכרון ילדות מצחיק עם בן משפחה או חבר.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 74,
+    "task_he": "צא להליכה מהירה של 20 דקות והאזן למוזיקה קצבית.",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 75,
+    "task_he": "כתוב סיפור קצרצר (עד 150 מילים) שמתחיל במילים 'בבוקר בהיר אחד...'",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 76,
+    "task_he": "מצא בית קפה שלא הכרת ונסה שם משקה חדש.",
+    "category": "הרפתקה",
+    "max_cost": 30,
+    "location_required": true
+  },
+  {
+    "id": 77,
+    "task_he": "קרא מאמר באינטרנט על נושא היסטורי שמעניין אותך.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 78,
+    "task_he": "ארגן מחדש את שולחן העבודה שלך בצורה יעילה ונעימה.",
+    "category": "בית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 79,
+    "task_he": "הכן סלט פירות צבעוני ומגוון.",
+    "category": "אוכל",
+    "max_cost": 25,
+    "location_required": false
+  },
+  {
+    "id": 80,
+    "task_he": "חפש קבוצת פייסבוק או פורום בנושא תחביב חדש שתרצה לנסות.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 81,
+    "task_he": "זהה שלושה סוגי עצים או פרחים שונים בסביבתך הקרובה.",
+    "category": "טבע",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 82,
+    "task_he": "צפה בסרט דוקומנטרי על טבע או חלל.",
+    "category": "תרבות",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 83,
+    "task_he": "תרגל נשימות עמוקות למשך 5 דקות תוך כדי התמקדות בהווה.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 84,
+    "task_he": "צור יצירת אמנות קטנה מחומרים ממוחזרים שיש בבית.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 85,
+    "task_he": "הכן לעצמך 'פיקניק ביתי' עם חטיפים ושתייה בסלון.",
+    "category": "אוכל",
+    "max_cost": 40,
+    "location_required": false
+  },
+  {
+    "id": 86,
+    "task_he": "שלח הודעת תודה או הערכה למישהו שעזר לך לאחרונה.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 87,
+    "task_he": "עלה במדרגות במקום במעלית (אם רלוונטי ובטוח).",
+    "category": "ספורט",
+    "max_cost": 0,
+    "location_required": false 
+  },
+  {
+    "id": 88,
+    "task_he": "למד קשר פשוט חדש (למשל, קשר הצלה, קשר בוהן).",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 89,
+    "task_he": "בקר בגלריה לאמנות קטנה או תערוכה מקומית (גם וירטואלית).",
+    "category": "תרבות",
+    "max_cost": 20,
+    "location_required": true
+  },
+  {
+    "id": 90,
+    "task_he": "הקדש 30 דקות ללא הסחות דעת (טלפון כבוי) לעיסוק מרגיע.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 91,
+    "task_he": "תכנן את ארוחות הצהריים שלך לשלושת הימים הקרובים.",
+    "category": "בית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 92,
+    "task_he": "הכן משקה מפתיע עם פירות ותבלינים שיש לך בבית.",
+    "category": "אוכל",
+    "max_cost": 15,
+    "location_required": false
+  },
+  {
+    "id": 93,
+    "task_he": "שחק משחק לוח או קלפים נוסטלגי מהילדות.",
+    "category": "משחק",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 94,
+    "task_he": "צא לסיבוב בשכונה וחפש אמנות רחוב או גרפיטי מעניין.",
+    "category": "הרפתקה",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 95,
+    "task_he": "כתוב רשימה של 10 דברים קטנים שמשמחים אותך.",
+    "category": "התפתחות אישית",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 96,
+    "task_he": "הכן פלייליסט של שירים מרגיעים לערב.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 97,
+    "task_he": "למד על מנהג או מסורת מתרבות אחרת.",
+    "category": "לימוד",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 98,
+    "task_he": "הרם 5 פריטי אשפה מהרחוב או מהפארק הקרוב וזרוק לפח.",
+    "category": "קהילה",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 99,
+    "task_he": "הכן 'קפסולת זמן' קטנה עם פריטים ופתקים מהיום, ופתח אותה בעוד שנה.",
+    "category": "יצירתי",
+    "max_cost": 10,
+    "location_required": false
+  },
+  {
+    "id": 100,
+    "task_he": "נסה מתכון של מאכל ממדינה אחרת שמעולם לא טעמת.",
+    "category": "אוכל",
+    "max_cost": 60,
+    "location_required": false
+  },
+  {
+    "id": 101,
+    "task_he": "התחל שיחה קצרה עם אדם זר (בבטחה) - בתור, בתחנת אוטובוס.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 102,
+    "task_he": "צלם סרטון קצר של 'יום בחיי' (קטעים קצרים מהיום שלך).",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 103,
+    "task_he": "שחק משחק אסטרטגיה פשוט אונליין נגד המחשב או שחקן אחר.",
+    "category": "משחק",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 104,
+    "task_he": "תכנן טיול יום קצר (אמיתי או דמיוני) לאזור שמעניין אותך.",
+    "category": "הרפתקה",
+    "max_cost": 0,
+    "location_required": false
   }
 ]
