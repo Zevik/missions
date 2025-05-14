@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "task_he": "אכול משהו שמעולם לא ניסית.",
+    "category": "אוכל",
+    "max_cost": 50,
+    "location_required": false
+  },
+  {
+    "id": 2,
+    "task_he": "שלח הודעה לאדם שלא דיברת איתו זמן רב.",
+    "category": "חברתי",
+    "max_cost": 0,
+    "location_required": false
+  },
+  {
+    "id": 3,
+    "task_he": "צא להליכה קצרה בשכונה שלא הכרת.",
+    "category": "הרפתקה",
+    "max_cost": 0,
+    "location_required": true
+  },
+  {
+    "id": 4,
+    "task_he": "צייר משהו שזז בדמיונך.",
+    "category": "יצירתי",
+    "max_cost": 0,
+    "location_required": false
+  }
+]
